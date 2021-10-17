@@ -1,3 +1,8 @@
+Ian Sartor
+
+This is a copy of https://github.com/nelaturuk/education_pathways
+
+
 # CARTE Education Pathways
 
 ## Description
